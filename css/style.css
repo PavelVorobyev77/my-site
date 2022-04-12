@@ -1,6 +1,7 @@
 ﻿body {
+    width:1024px;
     padding: 0;
-    margin: 0;
+    margin:auto;
     font-family:Times New Roman;
     background-color:fcd975;
     color:black;
